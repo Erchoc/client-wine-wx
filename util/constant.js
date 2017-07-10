@@ -1,7 +1,7 @@
 const constant = {
     // host: 'http://123.207.82.14:8081',
     // host: 'https://server-wine-api.erchoc.com',
-    host: 'https://api.jiyiguan.nowui.com',
+    // host: 'https://api.jiyiguan.nowui.com',
 
     platform: 'WX',
     version: '1.0.0',
@@ -14,28 +14,13 @@ const constant = {
         category_image: '/image/apps.png'
     }, {
         category_id: '146474b15ba545d9b9717cf8b5a6c3f5',
-        category_name: '第一分类',
+        category_name: '海昏清明',
         category_color: '#73b4ef',
-        category_image: '/image/discover.png'
-    }, {
-        category_id: '9ed6cb3551fb4bfaabfeee89cc63f9b4',
-        category_name: '第二分类',
-        category_color: '#e78ab0',
-        category_image: '/image/form.png'
-    }, {
-        category_id: '34fb354194e0409e8a80a4382a7fa18d',
-        category_name: '第三分类',
-        category_color: '#7acfa6',
         category_image: '/image/present.png'
     }, {
-        category_id: '26ef74aa1bb242479df5305478f31b08',
-        category_name: '第四分类',
-        category_color: '#ffcb63',
-        category_image: '/image/punch.png'
-    }, {
-        category_id: '45ac41e5c3334439a6ac45abdea31a30',
-        category_name: '第五分类',
-        category_color: '#9f8bea',
+        category_id: '9ed6cb3551fb4bfaabfeee89cc63f9b4',
+        category_name: '醇香汾酒',
+        category_color: '#e78ab0',
         category_image: '/image/shop.png'
     }],
     order_status_list: [{
